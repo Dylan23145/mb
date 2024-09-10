@@ -1,0 +1,11 @@
+[≭] Card  ⊱  4854647218687033|02|2028|678
+[≭] Status ⊱  Declined! ❌
+[≭] Response ⊱ 2007: No Account
+━━━━━━━━Bin Info━━━━━━━━
+[≭] Bin  ⊱  VISA - CREDIT - CLASSIC
+[≭] Bank  ⊱  BANCO DO BRASIL S.A.
+[≭] Country ⊱  BRAZIL 🇧🇷
+━━━━━━━━Info━━━━━━━━━━━━
+[≭] Gateway ⊱  Braintree Auth
+[≭] Time ⊱ 0.54's  | 𝘗 ↯ Live! ✅
+[≭] Checked By ⊱ Mɪᴀ_CCᴀᴛᴄʜᴇʀᵇᵒᵗ-ʰᵏ [User]
